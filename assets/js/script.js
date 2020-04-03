@@ -22,6 +22,19 @@ $(document).ready(function(){
             else{
                 $(".nav").removeClass("sticky")
             }
+
+
+            
+
+            $('#work').magnificPopup({
+                delegate: 'a',
+                type: 'image',
+                gallery:{
+                    enabled:true
+                }
+            });
+
         })
+
 
 })
