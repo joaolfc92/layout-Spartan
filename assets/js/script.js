@@ -58,6 +58,9 @@ $(document).ready(function(){
             }
 
 
+
+
+
             
 
             $('#work').magnificPopup({
@@ -68,7 +71,32 @@ $(document).ready(function(){
                 }
             });
 
+
+
+            $("#news-slider").owlCarousel({
+                items:3,
+                itemsDesktop:[1199,3],
+                itemsDesktopSmall:[1000,2],
+                itemsMibile:[599,1],
+                pagination:false,
+                navigationText:false,
+                autoplay:true
+
+            })
+
+
+
+
+
+
+
+
+
         })
 
 
 })
+
+
+
+
