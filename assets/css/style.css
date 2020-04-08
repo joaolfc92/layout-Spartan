@@ -1002,6 +1002,9 @@ a:hover{
 }
 
 
+
+
+
 .post-slide{
     margin: 0 10px;
 
@@ -1148,6 +1151,251 @@ a:hover{
 }
 
 
+
+.numbers{
+    background-image: url(../img/bg-testimonials.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding-top: 140px;
+    padding-bottom: 150px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.color-fff{
+    color: white;
+}
+
+.fs-35{
+    font-size: 70px;
+}
+
+.fs-700{
+    font-weight: bold;
+}
+
+.color-aaa{
+    text-transform: uppercase;
+    font-size: 500;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: white !important;
+    letter-spacing: 2px;
+
+}
+
+
+.numbers .fa{
+    font-size: 70px;
+
+}
+
+
+#clients{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+
+#clients-list{
+    padding:45px 0 0 0;
+    margin-left: 115px;
+
+
+}
+
+
+.client{
+    padding:0 10px;
+    max-width: 170px;
+    margin: 0 auto;
+    line-height: 100px;
+    cursor: pointer;
+}
+
+
+#client img{
+    display: inline-block !important;
+
+}
+
+#clients h2{
+    padding-bottom: 20px;
+}
+
+
+#clients h5{
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#clients h2{
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+footer{
+    background-color: #1c1c1d;
+    padding-top: 30px;
+    border-top: 5px solid rgba(0,0,0,0.1);
+}
+
+#contact-left h2,
+#contact-right h3{
+    color: white !important;
+    font-synthesis: 27px;
+    font-weight: 700;
+    color: white;
+}
+
+
+#contact-left p{
+    color: white;
+    margin-bottom: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+#contact-info{
+    background-image: url(../img/world-map.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+address{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+address strong{
+    font-size: 17px;
+    margin-top: 16px;
+}
+
+#phone-whats-email{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#phone-whats-email ul{
+    list-style: none;
+}    
+
+
+#phone-whats-email a{
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+    margin: 0 10px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#phone-whats-email .fa{
+    color: white;
+    margin: 10px 10px;
+    font-size: 20px;
+}
+
+
+
+
+form .form-control{
+    background: transparent;
+    border-radius: 0;
+    border-color: white;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 8px 17px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#footer-bottom{
+    background: rgba(0,0,0,0.1);
+    padding: 30px 0;
+    margin-top: 59px;
+}
+
+#footer-copyrights p{
+    margin: 0;
+    color: white;
+}
+
+
+#footer-menu{
+    float: left;
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+
+#footer-menu ul{
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+#footer-menu ul li{
+    display: inline-block;
+
+}
+
+#footer-menu a{
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+    margin: 0 10px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+#footer-menu a:hover{
+    color: orange;
+}
+
+
+ul.social-list{
+    display: flex;
+ 
+
+}
+
+ul.social-list .fa{
+    color: white;
+    margin: 20px 10px;
+    font-size: 20px;
+}
+
+
+.btn-white{
+    border-color: white;
+    color: white;
+    
+}
+
+
+.btn-white a{
+    color: white;
+    text-align:center;
+}
+
+
+
+.btn-white:hover{
+    color: #f1c30f; 
+    border-color: #f1c30f;
+}
 
 
 

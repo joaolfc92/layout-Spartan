@@ -84,14 +84,30 @@ $(document).ready(function(){
 
             })
 
+        })
 
 
-
-
-
-
-
-
+        $(function(){
+            $("#clients-list").owlCarousel({
+                items:6,
+                autoPlay:false,
+                smartSpeed:700,
+                loop:true,
+                autoPlayHoverPause:true,
+                nav:false,
+                dots:false,
+                responsive:{
+                    0:{
+                        items:2
+                    },
+                    400:{
+                        items:3
+                    },
+                    768:{
+                        items:6
+                    }
+                }
+            })
         })
 
 
