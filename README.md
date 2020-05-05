@@ -1,5 +1,5 @@
 # layout-Spartan
-projeto em edição ainda
+projeto em edição ainda;
 
 
 #bibilhotecas usadas: 
